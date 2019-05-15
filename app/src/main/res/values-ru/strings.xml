@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Делим чаевые</string>
+    <string name="billStaticText" translatable="false">Общая сумма(Р)</string>
+    <string name="numberOfPeopleStaticText" translatable="false">Люди</string>
+    <string name="perPersonStaticText" translatable="false">На человека</string>
+    <string name="tipStaticText" translatable="false">Процент чаевых</string>
+</resources>
